@@ -14,17 +14,19 @@ This is a Telegram bot built using Node.js and Telegraf library to provide codin
 - **Node.js** installed
 - A **Telegram Bot Token** (can be obtained from [BotFather](https://core.telegram.org/bots#botfather) on Telegram)
 
-Commands
-/start – Welcome message.
-/whomadethis – Displays the name of the creator (Suyash Jain).
-/bubblesort – Displays the code for Bubble Sort.
-/quicksort – Displays the code for Quick Sort.
-/insertionsort – Displays the code for Insertion Sort.
-/mergesort – Displays the code for Merge Sort.
-/heapsort – Displays the code for Heap Sort.
-/binarysearch – Fetches Binary Search code from GitHub.
-/linearsearch – Fetches Linear Search code from GitHub.
-Send a sticker – Responds with 😎 emoji.
+## Commands
+
+- `/start` – Welcome message.  
+- `/whomadethis` – Displays the name of the creator (Suyash Jain).  
+- `/bubblesort` – Displays the code for Bubble Sort.  
+- `/quicksort` – Displays the code for Quick Sort.  
+- `/insertionsort` – Displays the code for Insertion Sort.  
+- `/mergesort` – Displays the code for Merge Sort.  
+- `/heapsort` – Displays the code for Heap Sort.  
+- `/binarysearch` – Fetches Binary Search code from GitHub.  
+- `/linearsearch` – Fetches Linear Search code from GitHub.  
+- Send a sticker – Responds with 😎 emoji.  
+
 
 Contribution
 Feel free to fork the repository, make changes, and create pull requests to contribute to the project.
